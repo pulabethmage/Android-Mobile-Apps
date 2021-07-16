@@ -21,16 +21,17 @@ Five plus years of experience in designing, implementing and adapting technicall
 <details>
     <summary>view list...</summary>
     <ul>
-        <li>MEAN</li>
-        <li>MERN</li>
+        <li>Android</li>
+         <li>Java SE</li>
+         <li>Python 3</li>
+         <li>JavaScript (ES6)</li>
+         <li>TypeScript</li>
+        <li>Laraval</li>
+        <li>Yii2</li>
         <li>Angular</li>
-        <li>React</li>
-        <li>React Native</li>
-        <li>Redux</li>
         <li>Node.js</li>
         <li>Ionic 3 & 4</li>
-        <li>Mongo DB</li>
-        <li>Android</li>
+        <li>Mongo DB</li>       
     </ul>
 </details>
 
